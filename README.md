@@ -1,4 +1,4 @@
-## Main_leo
+# Main_leo
 
 - I implemented the orbital mechanics algorithm which helps in tracing Low Earth Orbits (LEO) and track satellites that are in orbit.
 - I came up with this algorithm while I was interning during my bachelors degree. 
